@@ -15,3 +15,5 @@
 Вариант 2
 
 https://github.com/Nikolai-Nemkov/Contr_work_080224/blob/main/Main.java
+
+https://github.com/Nikolai-Nemkov/Contr_work_080224/blob/main/phone.txt
